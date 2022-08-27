@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho atualmente como Auxiliar Técnico de Laboratório de Informática
 - 🌱 Estudando JavaScript
-- 📫 Contate-me no e-mail: douglasmachadow@gmail.com
+- 📫 Me siga nas Redes Sociais
 
 <div align="center">
   <a href="https://github.com/dodimachado">
@@ -24,12 +24,10 @@
 
 ##
 
-<div> 
+<div>
+   <a href="https://www.linkedin.com/in/dodimachado3663/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href = "mailto:douglasmachadow@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
   <a href="https://www.instagram.com/dodiwmachado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/dodiw.machado" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:douglasmachadow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dodimachado3663/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
- 
+  <a href="https://www.facebook.com/dodiw.machado" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/dodimachado63" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
